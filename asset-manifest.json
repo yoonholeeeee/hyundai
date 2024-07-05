@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/yoonholeeeee/hyundai.git/static/css/main.e83d6bac.css",
-    "main.js": "/yoonholeeeee/hyundai.git/static/js/main.60658bdf.js",
+    "main.js": "/yoonholeeeee/hyundai.git/static/js/main.f5ab72c9.js",
     "static/js/453.54db0b1f.chunk.js": "/yoonholeeeee/hyundai.git/static/js/453.54db0b1f.chunk.js",
     "index.html": "/yoonholeeeee/hyundai.git/index.html",
     "main.e83d6bac.css.map": "/yoonholeeeee/hyundai.git/static/css/main.e83d6bac.css.map",
-    "main.60658bdf.js.map": "/yoonholeeeee/hyundai.git/static/js/main.60658bdf.js.map",
+    "main.f5ab72c9.js.map": "/yoonholeeeee/hyundai.git/static/js/main.f5ab72c9.js.map",
     "453.54db0b1f.chunk.js.map": "/yoonholeeeee/hyundai.git/static/js/453.54db0b1f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e83d6bac.css",
-    "static/js/main.60658bdf.js"
+    "static/js/main.f5ab72c9.js"
   ]
 }
